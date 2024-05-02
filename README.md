@@ -61,5 +61,5 @@ $ npm run test:cov
 
 ## Author
 
-[Guilherme Paduan]([https://kamilmysliwiec.com](https://github.com/RowanVelda))
+[RowanVelda]([https://kamilmysliwiec.com](https://github.com/RowanVelda))
 
