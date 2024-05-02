@@ -1,0 +1,10 @@
+{
+    "type": "postgres",
+    "host": "localhost",
+    "port": 4321,
+    "username": "usuario",
+    "password": "senha_de_usuario",
+    "database": "banco_de_dados_de_filmes",
+    "entities": ["ser/**/*.entity{.ts,.js}"],
+    "synchronize": true
+}
